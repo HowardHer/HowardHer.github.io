@@ -4765,6 +4765,15 @@ textarea.form-control-lg {
     background-position-x: 1rem;
   }
 }
+
+.img_bike {
+  height: 50%;
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .progress {
   display: flex;
   height: 1rem;
